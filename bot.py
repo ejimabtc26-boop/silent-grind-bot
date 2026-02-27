@@ -7,13 +7,16 @@ CHANNEL_USERNAME = "@buildinquiet"
 
 def get_motivation():
     quotes = [
-        "Stay grinding. Success is coming.",
-        "Discipline today. Freedom tomorrow.",
-        "Small progress is still progress.",
-        "You didn't come this far to quit.",
-        "Silent moves. Loud results.",
-        "Hustle in silence and let success speak."
+    "ᴡᴏʀᴋ ɪɴ ꜱɪʟᴇɴᴄᴇ. ʟᴇᴛ ʀᴇꜱᴜʟᴛꜱ ꜱᴘᴇᴀᴋ.",
+    "ᴅɪꜱᴄɪᴘʟɪɴᴇ ᴛᴏᴅᴀʏ. ꜰʀᴇᴇᴅᴏᴍ ᴛᴏᴍᴏʀʀᴏᴡ.",
+    "ꜱᴍᴀʟʟ ᴘʀᴏɢʀᴇꜱꜱ ɪꜱ ꜱᴛɪʟʟ ᴘʀᴏɢʀᴇꜱꜱ.",
+    "ʏᴏᴜ ᴅɪᴅɴ'ᴛ ᴄᴏᴍᴇ ᴛʜɪꜱ ꜰᴀʀ ᴛᴏ Qᴜɪᴛ.",
+    "ꜱɪʟᴇɴᴛ ᴍᴏᴠᴇꜱ. ʟᴏᴜᴅ ʀᴇꜱᴜʟᴛꜱ.",
+    "ʜᴜꜱᴛʟᴇ ɪɴ ꜱɪʟᴇɴᴄᴇ ᴀɴᴅ ʟᴇᴛ ꜱᴜᴄᴄᴇꜱꜱ ꜱᴘᴇᴀᴋ.",
+    "ɴᴏ ɴᴏɪꜱᴇ — ᴊᴜꜱᴛ ᴘʀᴏɢʀᴇꜱꜱ.",
+    "ᴅɪꜱᴄɪᴘʟɪɴᴇ • ꜰᴏᴄᴜꜱ • ɢʀᴏᴡᴛʜ."
     ]
+    
     import random
     return random.choice(quotes)
 
